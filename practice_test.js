@@ -16,5 +16,5 @@ function solution(A) {
     smallestMissing++;
   }
 
-  return smallestMissing;
+  return smallestMissing
 }
